@@ -1,0 +1,6 @@
+.card-image{
+        width: 100%;
+}
+app-product-filter{
+        z-index: -1;
+}
